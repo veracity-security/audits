@@ -1,7 +1,7 @@
 # Veracity Audits
 
 
-#### [Influx Raise](/tree/main/published/influx-raise-v1.0.pdf)
+#### [Influx Raise](published/influx-raise-v1.0.pdf)
 
 
 
